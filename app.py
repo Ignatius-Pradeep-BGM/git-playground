@@ -3,4 +3,5 @@ print('Hello Git')
 print('Second Version')
 print('Experimenting with Branches')
 print('Pushing to GitHub')
-print(purposefulling_breaking)
+# Correcting all errors that was created wantedly to learn CI pipelines
+print('CI Fixed')
