@@ -5,3 +5,8 @@ print('Experimenting with Branches')
 print('Pushing to GitHub')
 # Correcting all errors that was created wantedly to learn CI pipelines
 print('CI Fixed')
+
+# Testing and Learning Docker container executions.
+import requests
+print("Docker with Dependencies")
+
